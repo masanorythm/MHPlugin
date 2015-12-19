@@ -8,11 +8,11 @@
  *
  * @author masanorythm
  *
- * @param Parameter description
+ * @param Parameter name
  * @desc Parameter description
  *
  */
 
- (function() {
+(function() {
 
- })();
+})();
